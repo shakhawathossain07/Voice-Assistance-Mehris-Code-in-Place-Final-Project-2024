@@ -7,5 +7,6 @@ ii) tell time :)
 iii) write text XD 
 iv) search for something on Google :o
 
-I named it Mehris. Inspired by the name of Chris and Mehran (ris+Meh= Mehris) 
+I named it Mehris. Inspired by the name of Chris and Mehran (ris+Meh= Mehris).
+
 Special thanks to the Code In Place 2024 team for the inspiration and guidance and Jhankar Mahbub for the project idea.
