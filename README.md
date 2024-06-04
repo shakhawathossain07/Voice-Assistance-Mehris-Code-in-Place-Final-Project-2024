@@ -10,4 +10,5 @@ iv) search for something on Google :o
 I named it Mehris. Inspired by the name of Chris and Mehran (ris+Meh= Mehris).
 
 Special thanks to the Code In Place 2024 team for the inspiration and guidance and Jhankar Mahbub for the project idea.
-https://youtu.be/PtWa1qRUeY0?si=PuX_TJkA_LOXQlvR
+
+See the quick demo on YouTube: https://youtu.be/PtWa1qRUeY0?si=PuX_TJkA_LOXQlvR
