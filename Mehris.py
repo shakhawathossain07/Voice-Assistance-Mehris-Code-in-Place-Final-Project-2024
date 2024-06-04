@@ -69,18 +69,18 @@ def run_mehris():
 def on_button_click():
     run_mehris()
 
-# Creating the GUI
+# Creating the Graphical User Interface
 root = tk.Tk()
 root.title("Mehris Voice Assistant")
 root.geometry("600x400")
 
-# Create a label
+# label
 label = tk.Label(root, text="Please click on speak to activate Mehris", font=("Helvetica", 14))
 label.pack(pady=20)
 
-# Create a button
+# button
 button = tk.Button(root, text="Speak Mehris :)", font=("Helvetica", 14), command=on_button_click)
 button.pack(pady=20)
 
-# Start the GUI event loop
+# GUI event loop
 root.mainloop()
