@@ -38,7 +38,6 @@ def take_command():
     return ""
 
 def run_mehris():
-    """Execute commands based on voice input."""
     command = take_command()
     if command:
         print(f"Command: {command}")
